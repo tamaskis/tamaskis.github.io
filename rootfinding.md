@@ -1,6 +1,6 @@
 ## Root Finding Methods
 
-[Return to main page.](https://github.com/tamaskis/tamaskis.github.io/edit/main/index.md)
+[Return to main page.](https://github.com/tamaskis/tamaskis.github.io/blob/main/index.md)
 
 
 ### Secant Method
