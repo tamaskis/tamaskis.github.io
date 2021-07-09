@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/tamaskis/tamaskis.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Numerical Methods
-[Root Finding Methods](https://github.com/tamaskis/tamaskis.github.io/edit/main/rootfinding.md)
+[Root Finding Methods](https://github.com/tamaskis/tamaskis.github.io/blob/main/rootfinding.md)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
